@@ -1,0 +1,8 @@
+MIDlet-1: Regions,/icon.png,app
+MIDlet-Jar-Size: 113742
+MIDlet-Jar-URL: regions.jar
+MIDlet-Name: Regions
+MIDlet-Vendor: Shurik83
+MIDlet-Version: 1.2
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
